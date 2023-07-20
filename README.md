@@ -95,3 +95,7 @@ Make sure to replace `'localhost'`, `'your_database_name'`, `'your_username'`, a
 Save the `index.html` and `import.php` files in the same directory on your web server. When you access the `index.html` page, you can upload a CSV file using the form, and the PHP script (`import.php`) will handle the CSV import into the PostgreSQL database.
 
 Note: This is a basic example for demonstration purposes. In a production environment, you should add appropriate error handling, data validation, and security measures (e.g., sanitizing input, protecting against SQL injection). Also, consider using a library like `fgetcsv()` for more robust CSV parsing.
+
+---
+
+Reference: ChatGPT =))
